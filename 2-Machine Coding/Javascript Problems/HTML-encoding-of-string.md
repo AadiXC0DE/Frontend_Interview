@@ -30,3 +30,5 @@ This part of the code uses the replace method to search for all occurrences of t
 The regular expression /&/g is used with the g flag, which means global replacement (replace all occurrences, not just the first one)
 
 This is a common technique to prevent user input containing these characters from being interpreted as HTML and potentially causing security vulnerabilities, such as Cross-Site Scripting (XSS)
+
+Encoding can also be done with other methods (coming soon!)
