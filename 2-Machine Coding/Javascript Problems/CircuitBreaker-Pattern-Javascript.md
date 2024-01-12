@@ -1,4 +1,4 @@
-# Frontend Interview Prep: Circuit Breaker Pattern in JavaScript
+# Circuit Breaker Pattern in JavaScript
 
 ## Introduction
 
