@@ -1,4 +1,4 @@
-# Frontend Interview Prep: useThrottle Hook with Leading and Trailing Flags
+# useThrottle Hook with Leading and Trailing Flags
 
 ## Introduction
 
